@@ -1,0 +1,6 @@
+game_id,game_name,developer,release_year,genre,early_access,jan_2023_players,feb_2023_players,mar_2023_players,apr_2023_players,may_2023_players,average_review_score,price_usd
+1001,Elden Ring,FromSoftware,2022,Action RPG,False,125000,118000,106000,97000,92000,94,59.99
+1002,Counter-Strike 2,Valve,2023,FPS,False,980000,1020000,1150000,1200000,1250000,85,0.0
+1003,Baldur's Gate 3,Larian Studios,2023,RPG,True,98000,105000,112000,124000,130000,96,59.99
+1004,Stardew Valley,ConcernedApe,2016,Simulation,False,220000,225000,228000,230000,232000,97,14.99
+1005,Cyberpunk 2077,CD Projekt Red,2020,Action RPG,False,68000,72000,75000,82000,85000,75,59.99
